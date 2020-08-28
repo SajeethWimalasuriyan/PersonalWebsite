@@ -1,7 +1,5 @@
 import React, { Component } from 'react'
 import '../PageStyles/Projects.css';
-import youtube from '../Photos/youtube.png'
-import Zoom from 'react-reveal/Zoom'; // Importing Zoom effect
 import Slide from 'react-reveal/Slide';
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
 import { Carousel } from 'react-responsive-carousel';
