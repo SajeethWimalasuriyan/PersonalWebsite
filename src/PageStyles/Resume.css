@@ -1,0 +1,47 @@
+.right-side-comp{
+    background-color: white;
+    padding: 40px;
+    overflow-x: hidden !important;
+    overflow-y: hidden !important;
+}
+*, *:before, *:after {
+    -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
+   }
+   :root{
+    --background_color: 
+    white;
+    --sky_blue: 
+    #cccccc;
+    --light_white:
+    #a0a0a0;
+}
+.bset{
+    background-color: white !important;
+    border: solid;
+    border-color: #cccccc ;
+    border-width: 2px;
+}
+  
+  
+  ul
+  {
+      list-style-type:none;
+      margin-top:-10px;
+      max-width:570px;
+      padding:0;
+  }
+  
+  .skill-set li
+  {
+      background:rgba(0,0,0,.75);
+      border-radius:5px;
+      color:black;
+      display:inline-block;
+      list-style:none;
+      margin:15px 15px 0 0;
+      padding:10px;
+      text-align:justify;
+  }
+  
+
+  
